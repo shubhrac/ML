@@ -1,2 +1,2 @@
 # ML
-for fun
+This is just for fun
